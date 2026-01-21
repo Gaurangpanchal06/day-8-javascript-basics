@@ -8,3 +8,8 @@ A simple interactive counter built using HTML, CSS, and JavaScript.
 - DOM selection
 - Event listeners
 - Updating the UI dynamically
+
+## Day 9 Update
+- JavaScript functions
+- State management
+- Multiple event handlers
